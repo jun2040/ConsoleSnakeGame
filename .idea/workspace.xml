@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6511fe2-5a59-4f9d-b40e-aff1d9dbb836" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jun2040/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jun2040/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jun2040/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jun2040/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jun2040/PostGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jun2040/ScoreManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6511fe2-5a59-4f9d-b40e-aff1d9dbb836" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
