@@ -3,7 +3,6 @@ package com.jun2040;
 import java.io.*;
 import java.util.*;
 import java.util.Map.*;
-import java.util.stream.Stream;
 
 public class ScoreManager {
     private static File file = new File("Data");
