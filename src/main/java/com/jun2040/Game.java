@@ -61,6 +61,15 @@ public class Game {
                 frameTime -= NSPF;
             }
         }
+
+        // Initialize post game sequence
+        new ScoreManager();
+
+        // Add new entry
+        ScoreManager.addEntry(snake.getScore());
+
+        // Display all scores
+        ScoreManager.displayScores();
     }
 
     // Game update function
@@ -100,10 +109,5 @@ public class Game {
 
         // UI
         System.out.println("Score: " + snake.getScore());
-    }
-
-    // Get score method for external use
-    public final int getScore() {
-        return snake.getScore();
     }
 }
